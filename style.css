@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+/* .app{
+    font-family: 'Noto Sans';
+}
+.logo img{
+    height : 120px; 
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+}
+.nav-items ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap : 40px;
+    padding-right: 50px;
+    font-family: 'Noto Sans';
+    text-decoration: none;
+}
+.nav-items ul li:hover{
+    font-weight: 500;
+    cursor: pointer;
+    color: #fc7a04;
+}
+.nav-items ul li{
+    font-size: 18px;
+    
+}
+.nav-items ul li a{
+    text-decoration: none;
+    color: black;
+}
+.nav-items ul li a:hover{
+    color: #fc7a04;
+}
+.search{
+    margin-right:100px;
+}
+.search input{
+    padding:8px 12px;
+}
+.search button{
+    padding: 10px 12px;
+    margin-left: 5px;
+    cursor :pointer;
+    background-color: #fc7a04;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.search button:hover{
+    border: 1px solid #fc7a04;
+    background-color: transparent;
+    color:#fc7a04;
+}
+
+.rescard{
+    height : 350px;
+    width: 350px;
+    margin: 10px;
+    margin-left: 20px;
+    padding: 5px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    
+}
+.rescard .imagee{
+    overflow: hidden;
+    height:100%; 
+     width: 100%; 
+}
+.rescard:hover{
+    scale: 1.08;
+    box-shadow: 5px 5px #f0f0f0;
+}
+.rescard img{
+    height:70%;
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+    
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+}
+.res-name{
+    margin: 5px 0px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.cuisine{
+    margin: 5px 0;
+    color: #808080;
+}
+.allcards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 60px;
+}
+.filter-btn{
+    margin-left: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 8px 14px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid black;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+.filter-btn:hover{
+    background-color: black;
+    color: white;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 60px;
+}
+.shimmer-card{
+    height:240px;
+    width : 350px;
+    background-color: #f0f0f0;
+    margin: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.login-btn{
+    padding: 6px 16px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #fc7a04;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.login-btn:hover{
+    background-color: transparent;
+    color: #fc7a04;
+    border: 1px solid #fc7a04;
+}
+.allcards a{
+    text-decoration: none;
+    color: black;
+}
+ */
